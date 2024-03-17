@@ -1,1 +1,1 @@
-﻿
+Console.WriteLine("uwap.org/apc 1.0");

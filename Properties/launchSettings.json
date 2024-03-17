@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AudioPlayerConsole": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Stuff\\Media\\Music\\CDs\\Technoworld, Volume 2 - CD1\\07.Recall_IV-Aestatic.ogg\""
+    }
+  }
+}
